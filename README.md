@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=ZorCeDev&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%26%20developer%20tooling&descAlignY=58&descSize=18&descColor=8b949e)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=ZorCeDev&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%26%20developer%20tooling&descAlignY=58&descSize=18&descColor=8b949e) 
 
 [![Website](https://img.shields.io/badge/zorcedev.github.io-0d1117?style=for-the-badge&logo=github&logoColor=1d9e75)](https://zorcedev.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itch.io&logoColor=1d9e75)](https://zorcedev.itch.io)
