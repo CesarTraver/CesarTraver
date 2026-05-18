@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=ZorCeDev&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%C2%B7%20developer%20tooling&descAlignY=58&descSize=18&descColor=8b949e)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=ZorCeDev&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%C2%B7%20Developer%20tooling%20%C2%B7%20Software%20developer&descAlignY=58&descSize=16&descColor=8b949e)
 
 [![Website](https://img.shields.io/badge/zorcedev.github.io-0d1117?style=for-the-badge&logo=github&logoColor=1d9e75)](https://zorcedev.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itch.io&logoColor=1d9e75)](https://zorcedev.itch.io)
@@ -13,12 +13,14 @@
 
 ### About me
 
-Backend developer focused on game development, tooling and software development. I build things I'd actually want to use — games with Godot and Unity, and open developer tools.
+C# developer focused on game development and tooling. I build things I'd actually want to use — games with Godot and Unity, and open developer tools designed around Clean Architecture, SOLID principles and Zenject DI.
+
+Currently studying cross-platform application development at **IES Caminas, Barcelona**.
 
 ```
-📦 Publishing tools
-🎮 Shipping software and videogames
-🐧 Running Linux daily (CachyOS)
+📦 Publishing tools on the Unity Asset Store
+🎮 Shipping games on itch.io
+🐧 Running Linux daily (CachyOS · Hyprland)
 ```
 
 ---
@@ -31,7 +33,11 @@ Backend developer focused on game development, tooling and software development.
 ![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=97c459)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=97c459)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=97c459)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=97c459)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=97c459)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=97c459)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=97c459)
 
 </div>
 
@@ -57,7 +63,7 @@ Backend developer focused on game development, tooling and software development.
 <summary><b>📊 TelemetrySystem</b> — Lightweight analytics framework for Unity</summary>
 <br>
 
-> Privacy-aware analytics SDK with multi-backend support, GDPR consent management and offline queue. Designed to drop into any Unity project without coupling the codebase.
+> Privacy-aware analytics SDK built on Clean Architecture with multi-backend support, GDPR consent management and offline queue. Designed to drop into any Unity project without coupling the codebase.
 
 ![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=97c459)
@@ -72,15 +78,18 @@ Backend developer focused on game development, tooling and software development.
 </details>
 
 <details>
-<summary><b>🎮 PactumX</b> — Unity 6 2D game</summary>
+<summary><b>🎮 VirusCatcher</b> — Godot 4 Mono game with full CI/CD pipeline</summary>
 <br>
 
-> 2D game built in Unity 6 itch.io deployment. It's a class project.
+> 2D game built in Godot 4 Mono with a production-grade CI/CD pipeline on Jenkins: automatic semantic versioning, itch.io deployment and Git LFS support.
 
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=97c459)
+![Godot](https://img.shields.io/badge/Godot%204-0d1117?style=flat-square&logo=godotengine&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=97c459)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=97c459)
 
-**Links:** [itch.io](https://zorcedev.itch.io/PactumX)
+**Highlights:** Semantic versioning via `version.json` · Branch-based counters · `[skip ci]` loop prevention · ngrok persistent webhook · Auto-deploy to itch.io
+
+**Links:** [GitHub](https://github.com/CesarTraver/VirusCatcher) · [itch.io](https://zorcedev.itch.io/viruscatcher)
 
 </details>
 
@@ -90,9 +99,9 @@ Backend developer focused on game development, tooling and software development.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarTraver&show_icons=true&theme=transparent&hide_border=true&title_color=1d9e75&icon_color=97c459&text_color=8b949e&bg_color=0d1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarTraver&show_icons=true&hide_border=true&title_color=1d9e75&icon_color=97c459&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
 &nbsp;&nbsp;
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarTraver&layout=compact&theme=transparent&hide_border=true&title_color=1d9e75&text_color=8b949e&bg_color=0d1117)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarTraver&layout=compact&hide_border=true&title_color=1d9e75&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
 
 </div>
 
