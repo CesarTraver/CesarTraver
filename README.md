@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=ZorCeDev&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%C2%B7%20Developer%20tooling%20%C2%B7%20Software%20developer&descAlignY=58&descSize=16&descColor=8b949e)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=César%20Traver%20Bolos&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Game%20dev%20%C2%B7%20Developer%20tooling%20%C2%B7%20Software%20developer&descAlignY=58&descSize=16&descColor=8b949e)
 
 [![Website](https://img.shields.io/badge/zorcedev.github.io-0d1117?style=for-the-badge&logo=github&logoColor=1d9e75)](https://zorcedev.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itch.io&logoColor=1d9e75)](https://zorcedev.itch.io)
