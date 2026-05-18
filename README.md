@@ -13,14 +13,12 @@
 
 ### About me
 
-C# developer focused on game development and tooling. I build things I'd actually want to use — games with Godot and Unity, and open developer tools designed around Clean Architecture, SOLID principles and Zenject DI.
-
-Currently studying cross-platform application development at **IES Caminas, Barcelona**.
+Backend developer focused on game development, tooling and software development. I build things I'd actually want to use — games with Godot and Unity, and open developer tools.
 
 ```
-📦 Publishing tools on the Unity Asset Store
-🎮 Shipping games on itch.io
-🐧 Running Linux daily (CachyOS · Hyprland)
+📦 Publishing tools
+🎮 Shipping software and videogames
+🐧 Running Linux daily (CachyOS)
 ```
 
 ---
@@ -33,11 +31,7 @@ Currently studying cross-platform application development at **IES Caminas, Barc
 ![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=97c459)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=97c459)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=97c459)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=97c459)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=97c459)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=97c459)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=97c459)
 
 </div>
 
@@ -63,7 +57,7 @@ Currently studying cross-platform application development at **IES Caminas, Barc
 <summary><b>📊 TelemetrySystem</b> — Lightweight analytics framework for Unity</summary>
 <br>
 
-> Privacy-aware analytics SDK built on Clean Architecture with multi-backend support, GDPR consent management and offline queue. Designed to drop into any Unity project without coupling the codebase.
+> Privacy-aware analytics SDK with multi-backend support, GDPR consent management and offline queue. Designed to drop into any Unity project without coupling the codebase.
 
 ![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=97c459)
@@ -78,32 +72,29 @@ Currently studying cross-platform application development at **IES Caminas, Barc
 </details>
 
 <details>
-<summary><b>🎮 VirusCatcher</b> — Godot 4 Mono game with full CI/CD pipeline</summary>
+<summary><b>🎮 PactumX</b> — Unity 6 2D game</summary>
 <br>
 
-> 2D game built in Godot 4 Mono with a production-grade CI/CD pipeline on Jenkins: automatic semantic versioning, itch.io deployment and Git LFS support.
+> 2D game built in Unity 6 itch.io deployment. It's a class project.
 
-![Godot](https://img.shields.io/badge/Godot%204-0d1117?style=flat-square&logo=godotengine&logoColor=97c459)
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=97c459)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=97c459)
 
-**Highlights:** Semantic versioning via `version.json` · Branch-based counters · `[skip ci]` loop prevention · ngrok persistent webhook · Auto-deploy to itch.io
-
-**Links:** [GitHub](https://github.com/CesarTraver/VirusCatcher) · [itch.io](https://zorcedev.itch.io/viruscatcher)
+**Links:** [itch.io](https://zorcedev.itch.io/PactumX)
 
 </details>
 
 ---
 
 ### GitHub stats
-
+ 
 <div align="center">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarTraver&show_icons=true&hide_border=true&title_color=1d9e75&icon_color=97c459&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
 &nbsp;&nbsp;
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarTraver&layout=compact&hide_border=true&title_color=1d9e75&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
-
+ 
 </div>
+
 
 ---
 
