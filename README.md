@@ -89,11 +89,11 @@ Backend developer focused on game development, tooling and software development.
 ### GitHub stats
  
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarTraver&show_icons=true&hide_border=true&title_color=1d9e75&icon_color=97c459&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
+<img src="https://github-readme-stats.vercel.app/api?username=CesarTraver&show_icons=true&hide_border=true&title_color=1d9e75&icon_color=97c459&text_color=8b949e&bg_color=0d1117&cache_seconds=3600" height="160" />
 &nbsp;&nbsp;
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarTraver&layout=compact&hide_border=true&title_color=1d9e75&text_color=8b949e&bg_color=0d1117&cache_seconds=3600)
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarTraver&layout=compact&hide_border=true&title_color=1d9e75&text_color=8b949e&bg_color=0d1117&cache_seconds=3600" height="160" />
 </div>
+
 
 
 ---
