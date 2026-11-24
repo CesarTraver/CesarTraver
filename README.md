@@ -31,6 +31,7 @@ Backend developer focused on game development, tooling and software development.
 ![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=97c459)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=97c459)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=97c459)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=97c459)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=97c459)
 
 </div>
@@ -52,6 +53,24 @@ Backend developer focused on game development, tooling and software development.
 
 </details>
 -->
+
+<details>
+<summary><b>📖 ereader-dashboard</b> — An old e-reader turned into an E-Ink desk dashboard</summary>
+<br>
+
+> Every day it renders a 758×1024 image with the date, the weather, my Todoist tasks and a quote, and sets it as the screensaver of a discontinued ENERGY Sistem eReader Slim HD — no firmware hacks. Linux "plugs in" the e-reader over USB by software, waits for me to accept on screen, copies and verifies the image, ejects and "unplugs" it, while it keeps charging.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=97c459)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=97c459)
+![systemd](https://img.shields.io/badge/systemd%20·%20udev-0d1117?style=flat-square&logoColor=97c459)
+![Waybar](https://img.shields.io/badge/Waybar-0d1117?style=flat-square&logoColor=97c459)
+![Pillow](https://img.shields.io/badge/Pillow-0d1117?style=flat-square&logoColor=97c459)
+
+**Highlights:** USB state machine with verified atomic transfer · Open-Meteo + Todoist (read-only, offline fallback) · Waybar module · systemd timers · udev rule scoped to one port · 101 pytest tests with a simulated device
+
+**Links:** [Repo](https://github.com/CesarTraver/ereader-dashboard)
+
+</details>
 
 <details>
 <summary><b>📊 TelemetrySystem</b> — Lightweight analytics framework for Unity</summary>
